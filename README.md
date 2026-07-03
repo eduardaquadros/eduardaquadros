@@ -38,7 +38,7 @@ Eu sou Eduarda Quadros Leonardo, tenho 24 anos e sou natural de Santa Catarina. 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
     align="left" 
